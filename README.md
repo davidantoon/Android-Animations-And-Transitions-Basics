@@ -1,4 +1,6 @@
-# Android-Animations-And-Transitions-Basics
+<img src="/thumbnail.png" style="width:100%">
+
+# Android Animations & Transitions Basics
 
 Demo android apps for the presentation: 
 http://davidantoon.com/?p=AnimationsAndTransitions
