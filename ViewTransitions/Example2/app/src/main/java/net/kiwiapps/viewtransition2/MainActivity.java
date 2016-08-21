@@ -1,4 +1,4 @@
-package net.kiwiapps.viewtransition;
+package net.kiwiapps.viewtransition2;
 
 import android.annotation.TargetApi;
 import android.os.Build;
@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
         transitionSet.setOrdering(TransitionSet.ORDERING_TOGETHER);
 
         ChangeBounds changeBounds = new ChangeBounds();
-        changeBounds.setDuration(600);
+        changeBounds.setDuration(300);
         changeBounds.setInterpolator(new DecelerateInterpolator());
 
 
@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
         detailsFade.addTarget(mProfileAge.getId());
         detailsFade.addTarget(mProfilePosition.getId());
         detailsFade.addTarget(mProfilePhone.getId());
-        detailsFade.setDuration(400);
+        detailsFade.setDuration(200);
 
         transitionSet.addTransition(detailsFade);
         transitionSet.addTransition(changeBounds);
@@ -93,14 +93,14 @@ public class MainActivity extends AppCompatActivity {
         transitionSet.setOrdering(TransitionSet.ORDERING_TOGETHER);
 
         ChangeBounds changeBounds = new ChangeBounds();
-        changeBounds.setDuration(1000);
+        changeBounds.setDuration(500);
         changeBounds.setInterpolator(new OvershootInterpolator());
 
         Fade detailsFade = new Fade(IN);
         detailsFade.addTarget(mProfileAge.getId());
         detailsFade.addTarget(mProfilePosition.getId());
         detailsFade.addTarget(mProfilePhone.getId());
-        detailsFade.setDuration(400);
+        detailsFade.setDuration(200);
 
 
         transitionSet.addTransition(changeBounds);

@@ -1,4 +1,4 @@
-package net.kiwiapps.viewtransition;
+package net.kiwiapps.viewtransition2;
 
 import org.junit.Test;
 
