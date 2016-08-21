@@ -11,9 +11,9 @@ http://davidantoon.com/?p=AnimationsAndTransitions
 
 
 ## Property Animations
-  * [Example #1](PropertyAnimations/Example1/)
-  * [Example #2](PropertyAnimations/Example2/)
+  * [Example #1](/PropertyAnimations/Example1/)
+  * [Example #2](/PropertyAnimations/Example2/)
   
 ## View Transitions
-  * [Exmaple #1](ViewTransitions/Example1/)
-  * [Exmaple #2](ViewTransitions/Example2/)
+  * [Exmaple #1](/ViewTransitions/Example1/)
+  * [Exmaple #2](/ViewTransitions/Example2/)
