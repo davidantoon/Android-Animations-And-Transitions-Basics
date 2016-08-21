@@ -4,10 +4,10 @@ Demo android apps for the presentation:
 http://davidantoon.com/?p=AnimationsAndTransitions
 
 ## View Animations
-  * [Scale Animation](ViewAnimations/Scale/)
-  * [Alpha Animation](ViewAnimations/Alpha/)
-  * [Rotate Animation](ViewAnimations/Rotate/)
-  * [Move Animation](ViewAnimations/Move)
+  * [Scale Animation](/ViewAnimations/Scale/)
+  * [Alpha Animation](/ViewAnimations/Alpha/)
+  * [Rotate Animation](/ViewAnimations/Rotate/)
+  * [Move Animation](/ViewAnimations/Move)
 
 
 ## Property Animations
