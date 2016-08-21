@@ -3,7 +3,7 @@
 # Android Animations & Transitions Basics
 
 Demo android apps for the presentation: 
-http://davidantoon.com/?p=AnimationsAndTransitions
+http://davidantoon.com?p=AnimationsAndTransitions
 
 ## View Animations
   * [Scale Animation](/ViewAnimations/Scale/)
